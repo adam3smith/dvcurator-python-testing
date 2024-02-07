@@ -1,5 +1,5 @@
 [default]
-host = data.qdr.syr.edu
+host = data.stage.qdr.org
 repo = QualitativeDataRepository/testing-demos
 dropbox = /home/michael/temp
 dataverse_token = 

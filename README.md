@@ -41,7 +41,7 @@ To be fully functional, the following parameters must be set:
     * project
   * Click "Generate Token" at the bottom of the screen. Make sure to note down your token and keep it safe (you won't be able to access this later)
 * A **dataverse API key** -- this must be for the dataverse installation you will work with.
-  * Find or create this under https://data.qdr.syr.edu/dataverseuser.xhtml?selectTab=apiTokenTab (substitute the domain if not using QDR)
+  * Find or create this under https://data.stage.qdr.org/dataverseuser.xhtml?selectTab=apiTokenTab (substitute the domain if not using QDR)
  
  Both of these tokens are entered on into the main window of dvcurator, under "Github token" and "Dataverse token" respectively.
 
